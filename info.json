@@ -1,0 +1,9 @@
+{
+    "name": "mpmail",
+    "displayName": "Mathematical expression evaluator",
+    "description": "Presents inline result of given mathematical expression",
+    "examples": ["math 1+2*7", "calculate 7*5-3"],
+    "categories": ["Utilities"],
+    "creator_name": "MichalP",
+    "creator_url": "michalp.net"
+}
